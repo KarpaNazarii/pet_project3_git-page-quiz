@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pet_project3_git-page-quiz/static/css/main.645c60eb.css",
+    "main.js": "/pet_project3_git-page-quiz/static/js/main.1173959a.js",
+    "index.html": "/pet_project3_git-page-quiz/index.html",
+    "main.645c60eb.css.map": "/pet_project3_git-page-quiz/static/css/main.645c60eb.css.map",
+    "main.1173959a.js.map": "/pet_project3_git-page-quiz/static/js/main.1173959a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.645c60eb.css",
+    "static/js/main.1173959a.js"
+  ]
+}
